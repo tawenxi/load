@@ -23,6 +23,9 @@ ROBOTSTXT_OBEY = False
 
 USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko'
 
+COOKIES_ENABLED = True
+
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

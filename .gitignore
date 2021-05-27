@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*.pyc
+*.txt
+/PIPENV_VENV_IN_PROJECT
+/DocumentSpider/__pycache__
+/DocumentSpider/spiders/__pycache__
+/load/images

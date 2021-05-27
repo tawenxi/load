@@ -7,10 +7,10 @@ class Bmw5Spider(scrapy.Spider):
     name = 'load'
     allowed_domains = ['10.177.9.37:81/suichuan']
     start_urls = ['http://10.177.9.37:81/suichuan']
-    # cookies = input("cookie:")
+    cookies = input("cookie:")
 
 
-    cookies ='84A6F BE7FC6B56DD862BDF671DB6F5AD'
+    # cookies ='DCFA752DC367DC21B1D175D80AFFDD5D'
 
     def start_requests(self):
         

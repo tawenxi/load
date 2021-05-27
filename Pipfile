@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pycookiecheat = "*"
+cryptography = "==3.2"
+pep517 = "*"
 
 [dev-packages]
 
